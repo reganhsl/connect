@@ -1,11 +1,15 @@
 # 如何科学上网或访问Google？
 
-第一步，点击网址注册账号 https://github.com/glados-network/GLaDOS ，填我的邀请码9V54O-A6KHN-PYRMT-6KDR9
+第一步，复制网址https://github.com/glados-network/GLaDOS 在浏览器打开，网络会慢请耐心等待。
 
-第二步，注册后，根据你使用的系统下载对应软件，如iphone下载Shadowrocket，其他的设备请看**首页**。
+注册账号登陆后，请填我的邀请码9V54O-A6KHN-PYRMT-6KDR9
+
+第二步，根据你使用的系统下载对应软件，如iphone下载Shadowrocket，其他的设备也在**首页**里选择下载。
 
 第三步，在账户里找到配置，根据提示进行操作。
 
-第四步，访问www.google.com 查看是否链接成功。
+第四步，访问www.google.com 查看是否成功。
 
 新用户有3天试用期，后续有需要可在**商店**里按需购买。
+
+如果没有连接成功点击**工具**-**自动诊断还技术支持**，根据提示操作。
