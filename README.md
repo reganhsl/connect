@@ -1,8 +1,10 @@
 # 如何科学上网或访问Google？
 
-第一步，复制网址https://github.com/glados-network/GLaDOS 在浏览器打开，网络会慢请耐心等待。
+第一步，复制网址https://glados.rocks/ 在另一个浏览器打开，跟着这个教程一步一步操作，网络有延迟请耐心等待。
 
-注册账号登陆后，请填我的邀请码9V54O-A6KHN-PYRMT-6KDR9
+网站打开后点击**深蓝色按钮Register**——填入邮箱-填入发送到邮箱的验证码——点击**绿色Register**注册
+
+注册账号登陆后，复制邀请码填入9V54O-A6KHN-PYRMT-6KDR9
 
 第二步，根据你使用的系统下载对应软件，如iphone下载Shadowrocket，其他的设备也在**首页**里选择下载。
 
@@ -13,3 +15,5 @@
 新用户有3天试用期，后续有需要可在**商店**里按需购买。
 
 如果没有连接成功点击**工具-自动诊断还技术支持**，根据提示操作。
+
+如果上面官网打不开的话，可以到github仓库看最新注册地址https://github.com/glados-network/GLaDOS
